@@ -1,4 +1,5 @@
 # Hardware-Experiment
+
 ## Ideal sampling
 ![WhatsApp Image 2025-04-29 at 18 19 12_d1ebf879](https://github.com/user-attachments/assets/468eff10-827f-4d54-a005-0343a5e2e44f)
 
